@@ -28,6 +28,32 @@ I'm a passionate computer science student, always eager to expand my knowledge a
 - Enhancing C# skills with Unity for game development
 
 ---
+## 🛠️ Projects
+
+### 🏴 Pirate Maze Game
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/farah-trigui/pirate-maze-game">
+        <img src="https://github.com/farah-trigui/pirate-maze-game/blob/main/screenshots/game.png" width="200" alt="Pirate Maze Game Screenshot"/>
+      </a>
+    </td>
+    <td>
+      <p><strong>A pirate-themed maze game built with Python and Tkinter.</strong></p>
+      <ul>
+        <li>Collect treasure 🪙</li>
+        <li>Avoid enemies 🦈</li>
+        <li>Reveal hidden paths 🌫️</li>
+        <li>Timer and Restart System</li>
+      </ul>
+      ⭐ <a href="https://github.com/farah-trigui/pirate-maze-game">View on GitHub</a>
+    </td>
+  </tr>
+</table>
+
+
+---
 
 ### 💼 Connect with Me
 
